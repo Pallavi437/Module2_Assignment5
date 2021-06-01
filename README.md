@@ -41,7 +41,7 @@
 
    <div class="post">
         <figure>
-            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg  width=400px  height=200px"  height="400"  width="300>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg  width=400px  height=200px"  height="400"  width="300" >
             <figcaption><b>Panther's Moon</b></figcaption>
         </figure>
 
@@ -59,16 +59,16 @@
    <div class="left">         
           <h4>Related Books</h4>
             <figure>
-              <img src="https://images-na.ssl-images-amazon.com/images/I/71xcOgf1mzL.jpg" alt="">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/71GbGol4p+L.jpg" alt="">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/819S5BQzUwL.jpg" alt="">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/711hfHGE+cL.jpg" alt="">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/718Ga-u-j8L.jpg" alt=""><br>
-              <img src="https://images-na.ssl-images-amazon.com/images/I/71S14ndjErL.jpg" alt="">
-              <img src="https://m.media-amazon.com/images/I/51grwdtItUL.jpg" alt="">
-              <img src="https://m.media-amazon.com/images/I/51pDFdBvkML._SL320_.jpg" alt="">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/71S14ndjErL.jpg" alt="">
-              <img src="https://4.bp.blogspot.com/-AilhOhWyu88/WizDc0IYIAI/AAAAAAAACJo/p6jhbCzpys89u4jXAZcVzZEBDilr2dMcQCLcBGAs/s1600/Omnibus.jpeg" alt="">
+              <img src="https://images-na.ssl-images-amazon.com/images/I/71xcOgf1mzL.jpg" alt=""  height="60"  width="60" >
+              <img src="https://images-na.ssl-images-amazon.com/images/I/71GbGol4p+L.jpg" alt="" height="60"  width="60">
+              <img src="https://images-na.ssl-images-amazon.com/images/I/819S5BQzUwL.jpg" alt="" height="60"  width="60">
+              <img src="https://images-na.ssl-images-amazon.com/images/I/711hfHGE+cL.jpg" alt="" height="60"  width="60">
+              <img src="https://images-na.ssl-images-amazon.com/images/I/718Ga-u-j8L.jpg" alt="" height="60"  width="60"><br>
+              <img src="https://images-na.ssl-images-amazon.com/images/I/71S14ndjErL.jpg" alt="" height="60"  width="60">
+              <img src="https://m.media-amazon.com/images/I/51grwdtItUL.jpg" alt="" height="60"  width="60">
+              <img src="https://m.media-amazon.com/images/I/51pDFdBvkML._SL320_.jpg" alt="" height="60"  width="60">
+              <img src="https://images-na.ssl-images-amazon.com/images/I/71S14ndjErL.jpg" alt=""  height="60"  width="60">
+              <img src="https://4.bp.blogspot.com/-AilhOhWyu88/WizDc0IYIAI/AAAAAAAACJo/p6jhbCzpys89u4jXAZcVzZEBDilr2dMcQCLcBGAs/s1600/Omnibus.jpeg" alt="" height="60"  width="60">
             </figure>
        </div>
       
