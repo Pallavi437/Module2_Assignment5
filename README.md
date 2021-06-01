@@ -41,7 +41,7 @@
 
    <div class="post">
         <figure>
-            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg" >
+            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg  width="400" height="200" " >
             <figcaption><b>Panther's Moon</b></figcaption>
         </figure>
 
