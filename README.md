@@ -28,7 +28,7 @@
 
  <div class="post">
          <figure>
-            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387762131l/19693898.jpg" height="400"  width="300">
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387762131l/19693898.jpg" >
             <figcaption><b>Time stops at Shamli and other stories</b></figcaption>
          </figure>
 
@@ -41,7 +41,7 @@
 
    <div class="post">
         <figure>
-            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg  width=400px  height=200px  " >
+            <img src="https://images-na.ssl-images-amazon.com/images/I/81Wx0r1D00L.jpg  width=400px  height=200px"  height="400"  width="300>
             <figcaption><b>Panther's Moon</b></figcaption>
         </figure>
 
