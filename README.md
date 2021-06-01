@@ -28,7 +28,7 @@
 
  <div class="post">
          <figure>
-            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387762131l/19693898.jpg" >
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387762131l/19693898.jpg" height="400"  width="300">
             <figcaption><b>Time stops at Shamli and other stories</b></figcaption>
          </figure>
 
