@@ -1,0 +1,68 @@
+header{
+    margin: 50px 30px 50px 400px;
+}
+h2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+hr{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.main{
+  height: 680px;  
+  background-color:rgb(236, 238, 240);
+}
+
+.post figure img{
+    width: 130px;
+    height: 150px;
+    float: left;
+    clear: left;
+}
+.post figure figcaption{
+    margin-left: 160px;
+    font-size: 20px;
+}
+.post .content p{
+     margin-left: 200px;
+     margin-bottom:50px;
+     text-align: justify; 
+     padding-right: 20px;
+}
+.post button{
+    background-color: rgb(13, 4, 95);
+    padding: 8px;
+    border-radius: 1rem;
+    float: right;
+    margin-top: 25px;
+    color: white;
+}
+button:hover{
+    background-color: rgb(13, 16, 236);
+}
+footer .wrapper{
+   background-color: black;
+   display: flex;
+}
+
+.left{
+    width: 35%;
+}
+.left h4{
+    color: white;
+    margin-left: 100px;
+}
+
+.left figure img{
+    width: 60px;
+    height: 60px;
+}
+.right{
+    width: 65%;
+    padding: 10px;
+    color: white;
+    text-align: justify;
+
+}
